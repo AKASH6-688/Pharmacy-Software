@@ -105,3 +105,4 @@ address = input("Address: ")
 c2 = Supplier(id, name, contact, address)
 c2.details()
 print(c2)
+
