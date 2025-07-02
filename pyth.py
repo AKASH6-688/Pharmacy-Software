@@ -15,7 +15,7 @@ class Supplier:
         self.contact = contact
         self.address = address
     def details(self):
-        print("Supplier Details:")
+        print("Supplier Details: ")
         print(f"ID:{self.id}\n NAME:{self.name}\n CELL:{self.contact}\n ADDRESS:{self.address}\n" )
 
 class Category:
